@@ -4,7 +4,8 @@ Kraken’s parent company, Payward, announced it will acquire 100% of digital as
 o regulatory approval.
 
 Bitnomial is the first crypto-native platform to obtain all three U.S. derivatives full-stack licenses—Designated Contract Market (DCM), Derivatives Clearing Organization (DCO), and Futures Commission Merchant (FCM). This acquisition will enable Payward to rapidly acquire a fully compliant derivatives infra
-Bitnomial is the first crypto-native platform to obtain all three U.S. derivatives full-stack licenses—Designated Contract Market (DCM), Derivatives Clearing Organization (DCO), and Futures Commission Merchant (FCM). This acquisition will enable Payward to rapidly acquire a fully compliant derivatives infrastructure, significantly accelerating its expansion in the U.S. market.
+Bitnomial is the first crypto-native platform to obtain all three U.S. derivatives full-stack licenses—Designated Contract Market (DCM), Derivatives Clearing Organization (DCO), and Futures Commission Merchant (FCM). This acquisition will enable Payward to rapidly acquire a fully compliant derivatives infrastructure, significantly accelerating its expan
+sion in the U.S. market.
 
 Upon closing, Bitnomial’s clearing and trading capabilities will be integrated with platforms including Kraken and NinjaTrader, offering U.S. customers spot margin, perpetual contracts, and options—all under CFTC oversight. The acquisition will also expand Payward Services’ offerings, enabling banks, fintech firms, and broker-dealers to access the U.S.-regulated derivatives market via a single API.
 
