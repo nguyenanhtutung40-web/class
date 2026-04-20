@@ -10,6 +10,7 @@ Bitnomial is the first crypto-native platform to obtain all three U.S. derivativ
 Future
 
 
+
 s Commission Merchant (FCM). This acquisition will enable Payward to rapidly acquire a fully compliant derivatives infrastructure, significantly accelerating its expan
 sion in the U.S. market.
 
