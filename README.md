@@ -10,6 +10,7 @@ Kraken’s parent company, Payward, announced it will acquire 100% of digital as
 
 
 
+
 Kraken’s parent company, Payward, announced it will acquire 100% of digital asset derivatives platform Bitnomial for up to $550 million (cash + stoc
 k). The transaction 
 
