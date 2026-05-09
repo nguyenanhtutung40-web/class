@@ -17,6 +17,7 @@ Kraken’s parent company, Payward, announced it will acquire 100% of digital as
 stoc
 
 
+
 k). The transaction 
 
 
