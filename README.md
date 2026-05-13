@@ -14,5 +14,6 @@ If rewards are not fully distributed, the points threshold will automatically de
 Please note that claiming the airdrop will consume 15 Binance Alpha Points. Users must confirm their claim on the Alpha Events
 
 
+
 page within 24 hours; otherwise, it will be deemed that users have given up claiming the airdrop.# class
 
