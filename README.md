@@ -11,6 +11,7 @@ n (cash + stock
 Kraken’s parent company, Payward, announced it will acquire 100% of digital asset derivatives platform Bitnomial for up to $550 million (cash +
 stoc
 k). The transaction 
+
 If rewards are not fully distributed, the points threshold will automatically decrease by 5 points every 5 minutes.
 
 Please note that claiming the airdrop will consume 15 Binance Alpha Points. Users must confirm their claim on the Alpha Events
