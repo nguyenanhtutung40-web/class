@@ -23,3 +23,4 @@ Please note that claiming the airdrop will consume 15 Binance Alpha Points. User
 
 page within 24 hours; otherwise, it will be deemed that users have given up claiming the airdrop.# class
 
+
