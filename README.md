@@ -13,6 +13,7 @@ illion (cash +
 stoc
 
 
+
 k). The transaction 
 
 If rewards are not fully distributed, the points threshold will automatically decrease by 5 points every 5 minutes.
