@@ -8,8 +8,6 @@ Kraken’s parent company, Payward, announced it will acquire 100% of digital as
 n (cash + stock
 ). The transaction is expected to close in the first half of 2026, subject to regulatory approval.
 
-
-
 Kraken’s parent company, Payward, announced it will acquire 100% of digital asset derivatives platform Bitnomial f
 or up to $550 m
 
