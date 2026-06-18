@@ -14,6 +14,7 @@ n (cash + stock
 
 
 
+
 Kraken’s parent company, Payward, announced it will acquire 100% of digital a
 sset derivatives platform Bitnomial f
 
