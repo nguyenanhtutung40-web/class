@@ -14,6 +14,7 @@ sset derivatives platform Bitnomial f
 
 or up to $550 m
 
+
 illion (cash +
 
 
